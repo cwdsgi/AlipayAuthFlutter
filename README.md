@@ -1,2 +1,2 @@
 # AlipayAuthFlutter
-flutter支付宝授权，支持Android和IOS
+Flutter支付宝授权登录，支持Android和IOS
